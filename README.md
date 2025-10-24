@@ -37,7 +37,7 @@ A beautiful, handwritten-style note-taking Single Page Application (SPA) built w
 
 1. **Clone or navigate to the project directory**
    ```bash
-   cd d:\11.Vibe\VibeNotes
+   cd \VibeNotes
    ```
 
 2. **Install dependencies**
@@ -175,21 +175,6 @@ VibeNotes/
 - Note templates
 - Import/Export (JSON, Markdown)
 - Pen sound effects
-
-## 📄 License
-
-This project is open source and available for personal and commercial use.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-## 💖 Acknowledgments
-
-- Google Fonts for beautiful handwritten typefaces
-- The React and Vite teams for amazing tools
-- TailwindCSS for making styling enjoyable
-- All the open-source libraries that made this possible
 
 ---
 
